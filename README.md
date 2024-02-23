@@ -18,11 +18,6 @@ Next.js 14 powered blog. This project is a modern, fast, and responsive web appl
 
 To get this project up and running on your local machine, follow these simple steps.
 
-### Prerequisites
-
-- Node.js (LTS version recommended)
-- A Sanity.io account and project setup
-
 ### Installation
 
 1. Clone the repository:
