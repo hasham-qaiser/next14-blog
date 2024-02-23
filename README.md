@@ -10,7 +10,7 @@ Next.js 14 powered blog. This project is a modern, fast, and responsive web appl
   - **Automatic Image Optimization**: Integrated image component that optimizes and serves images in modern formats for faster page loads.
   - **Middleware**: Leverages Next.js middleware for tasks like SEO enhancements and redirect handling directly on the server side.
   - **Incremental Static Regeneration (ISR)**: Updates static content without rebuilding the entire site, ensuring content is fresh while maintaining blazing fast speeds.
-- **Shadcn UI Components**: Implements Shadcn, a robust UI component library, to create intuitive and beautiful user interfaces.
+- **Shadcn**: Implements Shadcn, a robust UI component library, to create intuitive and beautiful user interfaces.
 - **Tailwind CSS**: Employs Tailwind CSS for custom styling, enabling responsive design and a consistent look and feel across the blog.
 - **Sanity CMS**: Integrates with Sanity.io to manage blog content seamlessly, providing a powerful and flexible backend for content operations.
 
